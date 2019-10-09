@@ -100,7 +100,7 @@ http://localhost:3838/oauth/authorize?
     &   client_id=9990781661
     &   redirect_uri=http://hackerblocks.com/callback
 ```
-Retrive the bearer token from the URL
+Retrieve the bearer token from the URL
 
 -------------------------
 
